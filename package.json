@@ -1,0 +1,32 @@
+{
+  "name": "node_sql",
+  "version": "0.0.1",
+  "description": "simple node and mysql connetion example using express and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekkashyap092/node_sql.git"
+  },
+   "dependencies": {
+    "express": "^4.13.4", 
+     "mysql": "^2.5.4",
+       "body-parser": "^1.15.0",
+    "ejs": "^2.4.1"
+   },
+ 
+  "keywords": [
+    "node.js",
+    "expressjs",
+    "mysql",
+    "api"
+  ],
+  "author": "Abhishek Kashyap Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishekkashyap092/node_sql/issues"
+  },
+  "homepage": "https://github.com/abhishekkashyap092/node_sql#readme"
+}
